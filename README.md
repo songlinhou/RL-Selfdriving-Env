@@ -1,10 +1,12 @@
-# RL Simulation Environment Implemented Using Unity
+# RL Self-Driving Simulation
 
-![env image](Images/hero_img.png)
+![env image](Images/car.gif)
 
 ## What is this?
 
-This is a game environment designed for Reinforcement Learning/Imitation Learning tasks. It is implemented using the 3D game engine Unity.
+This is a game environment designed for Reinforcement Learning/Imitation Learning tasks. It is implemented using the 3D game engine Unity. We also implemented several algorithms based on this environment.
+
+![env image](Images/hero_img.png)
 
 ## How to Run it?
 
@@ -54,3 +56,27 @@ The APIs are similar to the gym.
 ## Related Projects
 
 Please check for the projects which uses this game environment.
+
+<hr>
+
+### Deep Deterministic Policy Gradient (DDPG)
+
+We used DDPG to train the agent so it learns to drive using the horizontal and the vertical axes. The horizontal axis controls the steering while the vertical axis controls the acceleration.
+
+The implementation can be found here.
+
+<hr>
+
+### Deep Q Learning (DNQ)
+
+We used DQN to train the agent after discretizing the action space.
+
+The implementation can be found here.
+
+<hr>
+
+### Imitation Learning (IL)
+
+We play the game and used the user-generated data to train the agent.
+
+The implementation can be found here.
