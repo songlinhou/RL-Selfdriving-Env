@@ -63,7 +63,7 @@ Please check for the projects which uses this game environment.
 
 We used DDPG to train the agent so it learns to drive using the horizontal and the vertical axes. The horizontal axis controls the steering while the vertical axis controls the acceleration.
 
-The implementation can be found here.
+The implementation can be found [here](https://github.com/songlinhou/RL-Selfdriving-Env/blob/master/Experiments/RL-Project4-Car.ipynb).
 
 <hr>
 
@@ -71,7 +71,7 @@ The implementation can be found here.
 
 We used DQN to train the agent after discretizing the action space.
 
-The implementation can be found here.
+The implementation can be found [here](https://github.com/songlinhou/RL-Selfdriving-Env/blob/master/Experiments/RLCar_Project4_DQN.ipynb).
 
 <hr>
 
@@ -79,4 +79,4 @@ The implementation can be found here.
 
 We play the game and used the user-generated data to train the agent.
 
-The implementation can be found here.
+The implementation can be found [here](https://github.com/songlinhou/RL-Selfdriving-Env/blob/master/Experiments/IL_CAR.ipynb).
