@@ -81,7 +81,7 @@ The implementation can be found [here](https://github.com/songlinhou/RL-Selfdriv
 
 We play the game and used the user-generated data to train the agent.
 
-The implementation can be found here and [here](https://github.com/songlinhou/RL-Selfdriving-Env/blob/master/Experiments/IL_CAR.ipynb).
+The implementation can be found [here](https://github.com/songlinhou/RL-Selfdriving-Env/tree/master/Experiments/Imitation%20Learning) and [here](https://github.com/songlinhou/RL-Selfdriving-Env/blob/master/Experiments/IL_CAR.ipynb).
 
 ## Contributors
 
