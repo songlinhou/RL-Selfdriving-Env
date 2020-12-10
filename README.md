@@ -85,4 +85,4 @@ The implementation can be found [here](https://github.com/songlinhou/RL-Selfdriv
 
 ## Contributors
 
-[Songlin Hou](https://github.com/songlinhou), [Ziyuan Chen](https://github.com/zchen8-hub), [Akshata Pore](https://github.com/Akshata1801)
+[Songlin Hou](https://github.com/songlinhou), [Ziyuan Chen](https://github.com/zchen8-hub), [Akshata Pore](https://github.com/Akshata1801) and [Soumya Balijepally](https://github.com/SoumyaSrilekha)
