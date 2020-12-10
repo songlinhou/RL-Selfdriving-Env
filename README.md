@@ -69,7 +69,7 @@ The implementation can be found [here](https://github.com/songlinhou/RL-Selfdriv
 
 <hr>
 
-### Deep Q Learning (DNQ)
+### Deep Q Learning (DQN)
 
 We used DQN to train the agent after discretizing the action space.
 
