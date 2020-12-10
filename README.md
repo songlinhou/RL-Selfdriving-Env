@@ -51,7 +51,9 @@ env = UnityToGymWrapper(unity_env,0)
 
 The APIs are similar to the gym.
 
-![env image](Images/demo_code.png)
+```
+state, reward, done, _ = env.step(env.action_space.sample())
+```
 
 ## Related Projects
 
